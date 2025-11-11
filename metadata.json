@@ -1,0 +1,5 @@
+{
+  "name": "SAT Prep Hub",
+  "description": "An intelligent SAT preparation platform offering a dynamic question bank, mock tests, and personalized feedback powered by Gemini to help students track their progress and improve their scores.",
+  "requestFramePermissions": []
+}
